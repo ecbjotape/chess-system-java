@@ -52,38 +52,4 @@
 <li>Após entrar no diretório, digite Java application/Program para rodar a aplicação (O java precisa estar na versão 11 ou superior).</li>
 <li>Bom Jogo!</li>
 </ol>
-<h2><a id="user-content-️-imagens" class="anchor" aria-hidden="true" href="#️-imagens"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="framed_picture" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5bc.png">🖼️</g-emoji> Imagens</h2>
-<table>
-<thead>
-<tr>
-<th>Tela Inicial</th>
-<th>Tratamento de Erro</th>
-<th>Check</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54365007/90513167-9787d800-e135-11ea-8a35-ebf67854ea14.PNG"><img src="https://user-images.githubusercontent.com/54365007/90513167-9787d800-e135-11ea-8a35-ebf67854ea14.PNG" alt="tela-inicial" style="max-width:100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54365007/90513194-9f477c80-e135-11ea-8383-9f3515959954.PNG"><img src="https://user-images.githubusercontent.com/54365007/90513194-9f477c80-e135-11ea-8383-9f3515959954.PNG" alt="tratamento-erro" style="max-width:100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54365007/90513197-9fe01300-e135-11ea-9fc8-5beef82c6557.PNG"><img src="https://user-images.githubusercontent.com/54365007/90513197-9fe01300-e135-11ea-9fc8-5beef82c6557.PNG" alt="check" style="max-width:100%;"></a></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th>Jogada Roque (Castling)</th>
-<th>Jogando...</th>
-<th>Jogadas Finais</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54365007/90513202-a078a980-e135-11ea-8156-e130702f7b64.PNG"><img src="https://user-images.githubusercontent.com/54365007/90513202-a078a980-e135-11ea-8156-e130702f7b64.PNG" alt="rook-moving" style="max-width:100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54365007/90513198-9fe01300-e135-11ea-9626-a02c3bb40636.PNG"><img src="https://user-images.githubusercontent.com/54365007/90513198-9fe01300-e135-11ea-9626-a02c3bb40636.PNG" alt="jogo-continuo" style="max-width:100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/54365007/90513199-a078a980-e135-11ea-8b69-9590e1f11081.PNG"><img src="https://user-images.githubusercontent.com/54365007/90513199-a078a980-e135-11ea-8b69-9590e1f11081.PNG" alt="late-game" style="max-width:100%;"></a></td>
-</tr>
-</tbody>
-</table>
-</article>
-        </div>
+
